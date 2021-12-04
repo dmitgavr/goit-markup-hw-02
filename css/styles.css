@@ -17,6 +17,8 @@
     font-size: 26px;
     font-weight: 700;
     text-decoration: none;
+    line-height: 1.36;
+    letter-spacing: 0.03em;
   }
 
   .logo > span {
@@ -27,6 +29,8 @@
     color: var(--head-color);
     text-decoration: none;
     font-weight: 500;
+    letter-spacing: 0.02em;
+
   }
 
   .link:hover,
@@ -48,6 +52,7 @@
       font-size: 44px;
       font-weight: 900;
       line-height: 1.36;
+      letter-spacing: 0.06em;
   }
 
   .hero-button {
@@ -56,6 +61,7 @@
     font-weight: 700;
     font-size: 14px;
     line-height: 1.875;
+    letter-spacing: 0.06em;
     font-family: 'Roboto', sans-serif;
     cursor: pointer;
   }
@@ -64,6 +70,7 @@
       font-size: 14px;
       font-weight: 700;
       text-transform: uppercase;
+      letter-spacing: 0.03em;
   }
 
   .excellence p {
@@ -71,11 +78,13 @@
       font-size: 14px;
       font-weight: 400;
       line-height: 1,714;
+      letter-spacing: 0.03em;
   }
 
   h2 {
       font-size: 36px;
       font-weight: 700;
+      letter-spacing: 0.03em;
   }
 
   .command {
@@ -85,12 +94,14 @@
   .command h3 {
     font-size: 16px;
     font-weight: 500;
+    letter-spacing: 0.03em;
   }
 
   .command p {
       font-size: 16px;
       color: var(--text-color);
       font-weight: 400;
+      letter-spacing: 0.03em;
   }
 
   footer {
@@ -106,6 +117,7 @@
       font-size: 14px;
       font-weight: 400;
       line-height: 1,714;
+      letter-spacing: 0.03em;
   }
 
   .contacts-futer {
@@ -113,4 +125,5 @@
     font-size: 14px;
     font-weight: 400;
     line-height: 1,714;
+    letter-spacing: 0.03em;
 }
